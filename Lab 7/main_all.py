@@ -3,7 +3,7 @@ from shapes import *
 num1 = 5
 num2 = 9
 
-print(circle.area(num1))
+print(circle.circumference(num1))
 
 print(rectangle.area(num2, num1))
 

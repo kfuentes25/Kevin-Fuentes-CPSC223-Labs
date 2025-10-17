@@ -6,5 +6,5 @@ def area(radius):
     
 
 def circumference(radius):
-    circumference_value = 2 * pi * (radius ** 2)
+    circumference_value = 2 * pi * radius
     return circumference_value
